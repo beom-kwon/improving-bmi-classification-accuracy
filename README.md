@@ -25,7 +25,7 @@ The skeleton sequences in the Kinect Gait Biometry Dataset are stored as text fi
 
 Please execute 'step2_feature_extraction.py.' After running the .py file, you will obtain three .npz files containing feature vectors.
 
-## 3. Performance Evaluation 
+## 4. Performance Evaluation 
 
 Please execute 'step3_performance_evaluation.py.' Running this .py file will display the evaluation results for each machine learning model.
 
