@@ -6,7 +6,7 @@
 
 # Introduction
 
-On this web page, we provide the Python implementation of the body mass index (BMI) classification method proposed in our paper titled '[Improving BMI Classification Accuracy with Oversampling and 3-D Gait Analysis on Imbalanced Class Data](https://doi.org/10.9708/jksci.2024.29.09.055).' In this study, we proposed a method to improve the classification accuracy of BMI estimation techniques based on three-dimensional gait data. Additionally, we demonstrated the usefulness of anthropometric and spatiotemporal features in gait data-based BMI estimation techniques. The experimental results showed that using both features together and applying an oversampling technique achieves state-of-the-art performance with 92.92% accuracy in the BMI estimation problem.
+On this web page, we provide the Python implementation of the body mass index (BMI) classification method proposed in our paper titled '[Improving BMI Classification Accuracy with Oversampling and 3-D Gait Analysis on Imbalanced Class Data](https://doi.org/10.9708/jksci.2024.29.09.009).' In this study, we proposed a method to improve the classification accuracy of BMI estimation techniques based on three-dimensional gait data. Additionally, we demonstrated the usefulness of anthropometric and spatiotemporal features in gait data-based BMI estimation techniques. The experimental results showed that using both features together and applying an oversampling technique achieves state-of-the-art performance with 92.92% accuracy in the BMI estimation problem.
 
 # How to Run
 
@@ -55,11 +55,11 @@ Paper link: [Ensemble Learning for Skeleton-Based Body Mass Index Classification
   year={2024},
   volume={29},
   number={9},
-  pages={55--66},
-  doi={10.9708/jksci.2024.29.09.055}
+  pages={9--23},
+  doi={10.9708/jksci.2024.29.09.009}
 }
 ```
-Paper link: [Improving BMI Classification Accuracy with Oversampling and 3-D Gait Analysis on Imbalanced Class Data](https://doi.org/10.9708/jksci.2024.29.03.055)
+Paper link: [Improving BMI Classification Accuracy with Oversampling and 3-D Gait Analysis on Imbalanced Class Data](https://doi.org/10.9708/jksci.2024.29.09.009)
 
 # License
 
